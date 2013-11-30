@@ -1,6 +1,7 @@
 #ifndef _INDEX_H
 #define _INDEX_H
 #include "data_represent.h"
+#include <stdio.h>
 #include <map>
 using std::map;
 

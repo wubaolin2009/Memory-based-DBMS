@@ -1,5 +1,5 @@
 %{
-#include <io.h>
+//#include <io.h>
 #include"lex_defines.h"
 #include"gram.tab.h"
 
